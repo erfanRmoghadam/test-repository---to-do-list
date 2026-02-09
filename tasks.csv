@@ -1,0 +1,7 @@
+Title,Description,Priority,Completed
+sport,football,HIGH,True
+study,math,HIGH,False
+work,programming,MEDIUM,True
+entertainment,watching movies,LOW,False
+entertainment,playing games,MEDIUM,False
+stufy,data structures,HIGH,True
